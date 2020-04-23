@@ -1,4 +1,4 @@
-<h1>Base</h1>
+gia<h1>Base</h1>
 <ul>
 <li>git config --global user.name blabla ім'я того хто робить цей створив новий commit</li>
 <li>git config --global user.email blabal@bla імейл толо хто сворює новий commit</li>
