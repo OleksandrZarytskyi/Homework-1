@@ -1,0 +1,9 @@
+<h1>Base</h1>
+<ul>
+<li>git config --global user.name blabla ім'я того хто робить цей створив новий commit</li>
+<li>git config --global user.email blabal@bla імейл толо хто сворює новий commit</li>
+<li>git init - команда для створення архіву з версіями данних</li>
+<li>git status - команда яка говорить про стан данних в каталозі</li>
+<li>git add - збарігає данні(додати всі файли add .) </li>
+<li>git commit - ім'я версії даних і доває його до архіву (commit -m"назва нового коміту"</li>
+<li>git log - логи наших і історя commit </li>
